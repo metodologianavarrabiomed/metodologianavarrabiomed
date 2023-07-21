@@ -7,8 +7,8 @@ El servicio de Metodología proporciona asesoramiento en el diseño y ejecución
 ### Equipo
 - **Dra. Berta Ibáñez Beroiz (Investigadora principal)**
 - **Dr. Julián Librero López (Investigador principal)**
-- Dr. Ibai Tamayo Rodrígez (Técnico de estadística)
 - Dra. Mónica Enguita Germán (Técnica de estadística)
+- Dr. Ibai Tamayo Rodrígez (Técnico de estadística)
 - Asier Ballesteros Domínguez (Técnico apoyo a la investigación)
 - Irune Larrañeta Balda (Técnico apoyo a la investigación)
 - Ignacio Oscoz Villanueva (Técnico apoyo a la investigación)
@@ -27,8 +27,8 @@ The Methodology Unit gives advice on research project design and development, an
 ### Team
 - **Berta Ibáñez Beroiz MD PhD (Lead Researcher Senior)**
 - **Julián Librero López MD PhD (Lead Researcher Senior)**
-- Ibai Tamayo Rodrígez PhD (Statistics Technician)
 - Mónica Enguita Germán PhD (Statistics Technician)
+- Ibai Tamayo Rodrígez PhD (Statistics Technician)
 - Asier Ballesteros Domínguez (Research Assistant)
 - Irune Larrañeta Baldas (Research Assistant)
 - Ignacio Oscoz Villanueva (Research Assistant)
