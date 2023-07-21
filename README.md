@@ -1,6 +1,6 @@
 ### :es: Nosotros
 #### Metodología - Evaluación de servicios sanitarios
-Somos el grupo de metodología del centro de investigación biomédica Navarrabiomed. (https://www.navarrabiomed.es/es)
+Somos el grupo de metodología del centro de investigación biomédica Navarrabiomed.
 
 El servicio de Metodología proporciona asesoramiento en el diseño y ejecución de proyectos de investigación y en el análisis estadístico de datos. El equipo participa también de forma periódica en programas formativos del Departamento de Salud del Gobierno de Navarra. 
 
@@ -20,7 +20,7 @@ El servicio de Metodología proporciona asesoramiento en el diseño y ejecución
 
 ### :uk: About us
 #### Methodology - Health services research
-We are the methodology group of the Navarrabiomed biomedical research center. (https://www.navarrabiomed.es/en)
+We are the methodology group of the Navarrabiomed biomedical research center.
 
 The Methodology Unit gives advice on research project design and development, and statistical data analysis. The team participates in the training programmes of the Health Department, Navarra Government regularly.
 
