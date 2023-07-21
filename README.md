@@ -25,8 +25,8 @@ We are the methodology group of the Navarrabiomed biomedical research center.
 The Methodology Unit gives advice on research project design and development, and statistical data analysis. The team participates in the training programmes of the Health Department, Navarra Government regularly.
 
 ### Team
-- **Berta Ibáñez Beroiz MD PhD (Lead Researcher Senior)**
-- **Julián Librero López MD PhD (Lead Researcher Senior)**
+- **Berta Ibáñez Beroiz PhD (Lead Researcher Senior)**
+- **Julián Librero López PhD (Lead Researcher Senior)**
 - Mónica Enguita Germán PhD (Statistics Technician)
 - Ibai Tamayo Rodrígez PhD (Statistics Technician)
 - Asier Ballesteros Domínguez (Research Assistant)
