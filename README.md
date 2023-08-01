@@ -14,9 +14,9 @@ El servicio de Metodología proporciona asesoramiento en el diseño y ejecución
 - Ignacio Oscoz Villanueva (Técnico apoyo a la investigación)
 
 ### Proyectos
-- [CONCEPT](https://cienciadedatosysalud.org/proyectos-de-investigacion/concept/)
-- [REDISSEC](https://cienciadedatosysalud.org/proyectos-de-investigacion/redissec/)
-- [RICAPPS](https://cienciadedatosysalud.org/proyectos-de-investigacion/ricapps/)
+- [CONCEPT](https://www.navarrabiomed.es/es/investigacion/proyectos/concept-diabetes-utilizando-datos-del-mundo-real-para-estudio-de-eficiencia)
+- [REDISSEC](https://www.navarrabiomed.es/es/investigacion/proyectos/rd1600010014-red-de-investigacion-servicios-sanitarios-enfermedades)
+- [RICAPPS](https://www.navarrabiomed.es/es/investigacion/proyectos/rd2100160016-red-de-investigacion-cronicidad-atencion-primaria-y-promocion)
 
 ### :uk: About us
 #### Methodology - Health services research
@@ -35,6 +35,6 @@ The Methodology Unit gives advice on research project design and development, an
 
 
 ### Projects
-- [CONCEPT](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/concept/)
-- [REDISSEC](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/redissec/)
-- [RICAPPS](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/ricapps/)
+- [CONCEPT](https://www.navarrabiomed.es/es/investigacion/proyectos/concept-diabetes-utilizando-datos-del-mundo-real-para-estudio-de-eficiencia)
+- [REDISSEC](https://www.navarrabiomed.es/es/investigacion/proyectos/rd1600010014-red-de-investigacion-servicios-sanitarios-enfermedades)
+- [RICAPPS](https://www.navarrabiomed.es/es/investigacion/proyectos/rd2100160016-red-de-investigacion-cronicidad-atencion-primaria-y-promocion)
