@@ -10,7 +10,6 @@ El servicio de Metodología proporciona asesoramiento en el diseño y ejecución
 - Dra. Mónica Enguita Germán (Técnica de estadística)
 - Dr. Ibai Tamayo Rodrígez (Técnico de estadística)
 - Asier Ballesteros Domínguez (Técnico apoyo a la investigación)
-- Irune Larrañeta Balda (Técnico apoyo a la investigación)
 - Ignacio Oscoz Villanueva (Técnico apoyo a la investigación)
 
 ### Proyectos
